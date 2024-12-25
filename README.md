@@ -39,7 +39,9 @@ node client.js
 Enter messages to send to the server.
 Example Interaction
 Client sends a message:
+```
 Enter message to send: Hello, Server!
+```
 Server logs the message and responds:
 ```
 Received: Hello, Server!
